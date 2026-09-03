@@ -4,7 +4,7 @@
 :: set GIT=
 set VENV_DIR="E:\_ins\webui\forge-neo\venv"
 
-set COMMANDLINE_ARGS=--uv --model-ref 'E:\_ins\webui\models' --no-hashing --no-prompt-history --administrator 
+set COMMANDLINE_ARGS=--uv --model-ref 'E:\_ins\webui\models' --no-prompt-history
 
 :: --xformers --sage --uv
 :: --pin-shared-memory --cuda-malloc --cuda-stream
